@@ -15,3 +15,5 @@ This repository contains written reports of all the TryHackMe CTFs that I have c
 ### [Bounty Hacker](./bounty_hacker.md)
 
 ### [Red](./red.md)
+
+### [Skynet](./skynet.md)
